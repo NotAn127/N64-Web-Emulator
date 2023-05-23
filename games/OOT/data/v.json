@@ -1,7 +1,0 @@
-{
-    "n64": {
-        "version":"6",
-        "netplay": 1,
-        "state": 1,
-        "asmjs": 1,
-        "wasm": 0
