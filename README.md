@@ -3,7 +3,7 @@
 
     An Emulator Website, this might chnage into a website emuator, for now its n64
   
-  ## Game List
+## Game List
 
 ### [The Legend Of Zelda - Ocarina of Time](https://coolan127gamer.github.io/N64-Web-Emulator/games/OOT/)
 ### [The Legend Of Zelda - Majora's Mask](https://coolan127gamer.github.io/N64-Web-Emulator/games/MM/)
