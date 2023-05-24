@@ -1,4 +1,10 @@
-## N64 Emulator Web
+# N64 Emulator Web
+<img src="assets/images/Nintendo 64 logo.png" alt="Alt text" title="N64" width="150" height="150">
+
+    An Emulator Website, this might chnage into a website emukator, for now its n64
+  
+  ## Game List
+
 ### [The Legend Of Zelda - Ocarina of Time](https://coolan127gamer.github.io/N64-Web-Emulator/games/OOT/)
 ### [The Legend Of Zelda - Majora's Mask](https://coolan127gamer.github.io/N64-Web-Emulator/games/MM/)
 ### [The Legend Of Zelda - Ocarina of Time - Master Quest](https://coolan127gamer.github.io/N64-Web-Emulator/games/OOT_MQ/)
